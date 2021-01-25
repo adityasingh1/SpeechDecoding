@@ -1,0 +1,6 @@
+tf-nightly
+scikit-learn
+matplotlib
+numpy
+scipy
+librosa
